@@ -1,0 +1,7 @@
+{
+  "API_KEY": "API KEY",
+  "API_SECRET": "SECRET KEY",
+  "API_KEY_PAPER": "https://paper-api.alpaca.markets",
+  "API_KEY_LIVE": "https://api.alpaca.markets",
+  "TYPE": "Live"
+}
